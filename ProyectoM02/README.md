@@ -6,7 +6,7 @@ Proyecto correspondiente al Módulo 02 del Bootcamp DWFS.
 
 ## Descripción del desarrollo
 
-La solución se desarrollo por separado, con dos paradigmas. Por un lado con Programación Funcional (PF) y por el otro, Programación Orientada a Objetos (POO). Cada una tiene su propia carpeta donde se encuentra el archivo .html y el .js.
+La solución se desarrolló por separado, con dos paradigmas. Por un lado con Programación Funcional (PF) y por el otro, Programación Orientada a Objetos (POO). Cada una tiene su propia carpeta donde se encuentra el archivo .html y el .js.
 
 Para ambos enfoques, la lógica que se consideró fue la siguiente:
 - El usuario debe definir las 8 preguntas que tendrá la encuesta y sus alternativas (mínimo 2 por cada pregunta). 
@@ -15,7 +15,7 @@ Para ambos enfoques, la lógica que se consideró fue la siguiente:
 - Una vez que el usuario decide no realizar más ciclos de respuestas, a través de la consola se detalla el resultado de la encuesta acumulado por cada ciclo. 
 
 ## Desarrollo del Proyecto
-El proyecto fue desarrollado de manera individual, aplicando los conocimientos adquiridos en el módulo. Si se debe mencionar el uso constante de ChatGPT como apoyo con distintas finalidades:
+El proyecto fue desarrollado de manera individual, aplicando los conocimientos adquiridos en el módulo. Se debe mencionar el uso de ChatGPT como apoyo con distintas finalidades:
 - Entender lo solicitado por el enunciado. 
 - Definir la lógica que tendría el programa. 
 - Revisión de código y apoyo en la corrección de errores. 
