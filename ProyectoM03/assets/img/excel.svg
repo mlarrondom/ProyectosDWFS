@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Excel logo (estilo)">
+  <title>Excel</title>
+  <!-- Fondo -->
+  <rect width="256" height="256" rx="32" fill="#1F6F43"/>
+  <!-- Panel derecho (hojas) -->
+  <g transform="translate(112,24)">
+    <rect x="0" y="0" width="120" height="208" rx="10" fill="#21A366"/>
+    <g opacity="0.3" fill="#FFFFFF">
+      <rect x="12" y="20" width="96" height="20" rx="4"/>
+      <rect x="12" y="52" width="96" height="20" rx="4"/>
+      <rect x="12" y="84" width="96" height="20" rx="4"/>
+      <rect x="12" y="116" width="96" height="20" rx="4"/>
+      <rect x="12" y="148" width="96" height="20" rx="4"/>
+      <rect x="12" y="180" width="96" height="20" rx="4"/>
+    </g>
+  </g>
+  <!-- Panel izquierdo -->
+  <rect x="16" y="24" width="120" height="208" rx="10" fill="#107C41"/>
+  <!-- Letra X -->
+  <g transform="translate(30,60)">
+    <path fill="#FFFFFF" d="M78 0L56 0 34 32 12 0 0 0 27 40 0 80 12 80 34 48 56 80 68 80 41 40z"/>
+  </g>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Ciberseguridad corporativa">
+  <title>Ciberseguridad corporativa</title>
+
+  <!-- Aro corporativo (marco) -->
+  <circle cx="128" cy="128" r="104" fill="none" stroke="#006699" stroke-width="10"/>
+
+  <!-- Nodos/circuito (N, E, S, O) para simetría perfecta -->
+  <g fill="#006699" stroke="#006699" stroke-width="6" stroke-linecap="round">
+    <!-- Norte -->
+    <line x1="128" y1="20" x2="128" y2="36"/>
+    <circle cx="128" cy="16" r="6" stroke="none"/>
+    <!-- Este -->
+    <line x1="220" y1="128" x2="204" y2="128"/>
+    <circle cx="224" cy="128" r="6" stroke="none"/>
+    <!-- Sur -->
+    <line x1="128" y1="236" x2="128" y2="220"/>
+    <circle cx="128" cy="240" r="6" stroke="none"/>
+    <!-- Oeste -->
+    <line x1="36" y1="128" x2="52" y2="128"/>
+    <circle cx="32" cy="128" r="6" stroke="none"/>
+  </g>
+
+  <!-- Escudo (centrado) -->
+  <path d="M128 64l46 16v40c0 38-24 63-46 73-22-10-46-35-46-73V80l46-16z"
+        fill="none" stroke="#006699" stroke-width="10" stroke-linejoin="round"/>
+
+  <!-- Candado dentro del escudo (centrado) -->
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <!-- Cuerpo del candado -->
+    <rect x="102" y="118" width="52" height="38" rx="8" fill="none" stroke="#FF6600" stroke-width="8"/>
+    <!-- Arco -->
+    <path d="M114 118v-10c0-12 10-22 22-22s22 10 22 22v10" fill="none" stroke="#FF6600" stroke-width="8"/>
+    <!-- Ojal -->
+    <circle cx="128" cy="137" r="6" fill="#FF6600" stroke="none"/>
+  </g>
+</svg>
+
+
+
+
+

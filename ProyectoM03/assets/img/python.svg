@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 255" role="img" aria-label="Python logo">
+  <title>Python</title>
+  <defs>
+    <linearGradient id="python-top" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#387EB8"/>
+      <stop offset="100%" stop-color="#366994"/>
+    </linearGradient>
+    <linearGradient id="python-bottom" x1="0" x2="1" y1="1" y2="0">
+      <stop offset="0%" stop-color="#FFE052"/>
+      <stop offset="100%" stop-color="#FFC331"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <!-- Parte superior (azul) -->
+    <path fill="url(#python-top)" d="M126.9,0c-61.2,0-57.4,26.6-57.4,26.6l0,27.5h58.5v8.2H47.2c0,0-38.1-4.3-38.1,57.1
+      s33.2,61.4,33.2,61.4h19.8v-27.9c0,0-1.1-33.2,32.7-33.2h56.1c0,0,31.6,0.5,31.6-30.6V30.1C182.5,30.1,187.6,0,126.9,0z
+      M93.5,18.8c5.6,0,10.2,4.6,10.2,10.2s-4.6,10.2-10.2,10.2s-10.2-4.6-10.2-10.2S87.9,18.8,93.5,18.8z"/>
+    
+    <!-- Parte inferior (amarilla) -->
+    <path fill="url(#python-bottom)" d="M128.7,254.5c61.2,0,57.4-26.6,57.4-26.6l0-27.5h-58.5v-8.2h80.9c0,0,38.1,4.3,38.1-57.1
+      s-33.2-61.4-33.2-61.4h-19.8v27.9c0,0,1.1,33.2-32.7,33.2h-56.1c0,0-31.6-0.5-31.6,30.6v59.1C73.1,224.4,68,254.5,128.7,254.5z
+      M162.1,235.7c-5.6,0-10.2-4.6-10.2-10.2s4.6-10.2,10.2-10.2s10.2,4.6,10.2,10.2S167.7,235.7,162.1,235.7z"/>
+  </g>
+</svg>
+

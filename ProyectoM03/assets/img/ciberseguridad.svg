@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Icono de ciberseguridad">
+  <title>Ciberseguridad</title>
+
+  <!-- Escudo -->
+  <path d="M128 20l70 24v68c0 56-36 92-70 108-34-16-70-52-70-108V44l70-24z"
+        fill="none" stroke="#006699" stroke-width="10" stroke-linejoin="round"/>
+
+  <!-- Candado -->
+  <g transform="translate(0,6)">
+    <rect x="88" y="108" width="80" height="64" rx="10" fill="none" stroke="#FF6600" stroke-width="10"/>
+    <path d="M104 108v-14c0-13 11-24 24-24h0c13 0 24 11 24 24v14"
+          fill="none" stroke="#FF6600" stroke-width="10" stroke-linecap="round"/>
+    <!-- Ojal del candado -->
+    <circle cx="128" cy="140" r="10" fill="#FF6600"/>
+  </g>
+
+  <!-- “Circuitos” (nodos y trazas) -->
+  <g fill="none" stroke="#006699" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Izquierda -->
+    <circle cx="44" cy="112" r="8" fill="#006699"/>
+    <path d="M52 112h28"/>
+    <circle cx="52" cy="152" r="8" fill="#006699"/>
+    <path d="M60 152h32"/>
+
+    <!-- Derecha -->
+    <circle cx="212" cy="112" r="8" fill="#006699"/>
+    <path d="M176 112h28"/>
+    <circle cx="204" cy="152" r="8" fill="#006699"/>
+    <path d="M164 152h32"/>
+
+    <!-- Inferior (conexión a escudo) -->
+    <circle cx="128" cy="220" r="8" fill="#006699"/>
+    <path d="M128 196v16"/>
+  </g>
+</svg>
+
+
+
+

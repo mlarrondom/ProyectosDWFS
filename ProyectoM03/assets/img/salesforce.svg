@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 160" role="img" aria-label="Salesforce (estilo nube)">
+  <title>Salesforce (estilo nube)</title>
+  <!-- Nube azul -->
+  <path fill="#00A1E0" d="M172 64c-1.5-22.4-20.2-40-43-40-8.8 0-17 2.6-23.8 7.2C98.9 22.9 85.4 16 70.4 16 45.8 16 25.6 36.2 25.6 60.8c0 3.9.4 7.7 1.3 11.2C14.1 76.3 4 88.8 4 104c0 19.3 15.7 35 35 35h148c18.2 0 33-14.8 33-33 0-17.6-13.6-32-30.9-33.0-3.9-5.5-9.9-9.2-17.1-9z"/>
+  <!-- Texto editable -->
+  <text x="50%" y="102" text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="32" font-weight="bold" fill="#FFFFFF">
+    salesforce
+  </text>
+</svg>
+
+
+
+

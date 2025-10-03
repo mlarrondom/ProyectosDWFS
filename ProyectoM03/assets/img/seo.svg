@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Logo SEO">
+  <title>SEO</title>
+  <!-- Fondo opcional -->
+  <rect x="8" y="8" width="240" height="240" rx="28" fill="#ffffff" stroke="#006699" stroke-width="4"/>
+
+  <!-- Lupa -->
+  <g transform="translate(24,24)">
+    <circle cx="96" cy="96" r="56" fill="none" stroke="#006699" stroke-width="10"/>
+    <line x1="136" y1="136" x2="184" y2="184" stroke="#006699" stroke-width="14" stroke-linecap="round"/>
+  </g>
+
+  <!-- Gráfico ascendente -->
+  <g fill="none" stroke="#FF6600" stroke-width="10" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M40 180 L92 140 L130 160 L188 108 L216 124"/>
+    <!-- Barras/indicadores -->
+    <circle cx="92" cy="140" r="6" fill="#FF6600"/>
+    <circle cx="130" cy="160" r="6" fill="#FF6600"/>
+    <circle cx="188" cy="108" r="6" fill="#FF6600"/>
+    <circle cx="216" cy="124" r="6" fill="#FF6600"/>
+  </g>
+
+  <!-- Texto SEO -->
+  <text x="50%" y="226" text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="28" font-weight="700" fill="#006699">
+    SEO
+  </text>
+</svg>
+
+
+
